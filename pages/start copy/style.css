@@ -1,0 +1,33 @@
+.18_32 { 
+	overflow:hidden;
+}
+.e18_32 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:414px;
+	height:736px;
+	position:absolute;
+}
+.e18_33 { 
+	width:414px;
+	height:736px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(../Images/Intro.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+.e18_35 { 
+	color:rgba(116.00000068545341, 94.0000019967556, 72.00000330805779, 1);
+	width:270px;
+	height:314px;
+	position:absolute;
+	left:72px;
+	top:164px;
+	font-family:Luckiest Guy;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:6;
+}
+

@@ -1,0 +1,310 @@
+
+.e1_23 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:414px;
+	height:736px;
+	position:absolute;
+}
+.e1_24 { 
+	width:414px;
+	height:736px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(../Images/Achtergrond.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_25 { 
+	box-shadow:0px 4px 4px rgba(199.0000033378601, 167.00000524520874, 129.00000751018524, 1);
+	transform: rotate(7.765026540623438e-19deg);
+	background-color:rgba(234.00000125169754, 222.00000196695328, 197.0000034570694, 1);
+	width:310.0000305175781px;
+	height:284.0000305175781px;
+	position:absolute;
+	left:52px;
+	top:213px;
+	border-top-left-radius:30px;
+	border-top-right-radius:30px;
+	border-bottom-left-radius:30px;
+	border-bottom-right-radius:30px;
+}
+.e1_26 { 
+	width:290px;
+	height:253px;
+	position:absolute;
+	left:62px;
+	top:228px;
+	background-image:url(../Images/level6.1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_27 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	color:rgba(234.00000125169754, 222.00000196695328, 197.0000034570694, 1);
+	width:150px;
+	height:40px;
+	position:absolute;
+	left:132px;
+	top:40px;
+	font-family:Luckiest Guy;
+	text-align:center;
+	font-size:40px;
+	letter-spacing:2px;
+}
+.e1_28 { 
+	width:110px;
+	height:44px;
+	position:absolute;
+	left:152px;
+	top:527px;
+}
+.e1_29 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(234.00000125169754, 222.00000196695328, 197.0000034570694, 1);
+	width:32px;
+	height:44px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e1_30 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(234.00000125169754, 222.00000196695328, 197.0000034570694, 1);
+	width:32px;
+	height:44px;
+	position:absolute;
+	left:39px;
+	top:0px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e1_31 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(234.00000125169754, 222.00000196695328, 197.0000034570694, 1);
+	width:32px;
+	height:44px;
+	position:absolute;
+	left:78px;
+	top:0px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e1_32 { 
+	width:110px;
+	height:44px;
+	position:absolute;
+	left:152px;
+	top:585px;
+}
+.e1_33 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(234.00000125169754, 222.00000196695328, 197.0000034570694, 1);
+	width:32px;
+	height:44px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e1_34 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(234.00000125169754, 222.00000196695328, 197.0000034570694, 1);
+	width:32px;
+	height:44px;
+	position:absolute;
+	left:39px;
+	top:0px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e1_35 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(234.00000125169754, 222.00000196695328, 197.0000034570694, 1);
+	width:32px;
+	height:44px;
+	position:absolute;
+	left:78px;
+	top:0px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e1_36 { 
+	width:344px;
+	height:44px;
+	position:absolute;
+	left:35px;
+	top:643px;
+}
+.e1_37 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(234.00000125169754, 222.00000196695328, 197.0000034570694, 1);
+	width:32px;
+	height:44px;
+	position:absolute;
+	left:39px;
+	top:0px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e1_38 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(234.00000125169754, 222.00000196695328, 197.0000034570694, 1);
+	width:32px;
+	height:44px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e1_39 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(234.00000125169754, 222.00000196695328, 197.0000034570694, 1);
+	width:32px;
+	height:44px;
+	position:absolute;
+	left:78px;
+	top:0px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e1_40 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(234.00000125169754, 222.00000196695328, 197.0000034570694, 1);
+	width:32px;
+	height:44px;
+	position:absolute;
+	left:117px;
+	top:0px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e1_41 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(234.00000125169754, 222.00000196695328, 197.0000034570694, 1);
+	width:32px;
+	height:44px;
+	position:absolute;
+	left:156px;
+	top:0px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e1_42 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(234.00000125169754, 222.00000196695328, 197.0000034570694, 1);
+	width:32px;
+	height:44px;
+	position:absolute;
+	left:195px;
+	top:0px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e1_43 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(234.00000125169754, 222.00000196695328, 197.0000034570694, 1);
+	width:32px;
+	height:44px;
+	position:absolute;
+	left:234px;
+	top:0px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e1_44 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(234.00000125169754, 222.00000196695328, 197.0000034570694, 1);
+	width:32px;
+	height:44px;
+	position:absolute;
+	left:273px;
+	top:0px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e1_45 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(234.00000125169754, 222.00000196695328, 197.0000034570694, 1);
+	width:32px;
+	height:44px;
+	position:absolute;
+	left:312px;
+	top:0px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e1_46 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(234.00000125169754, 222.00000196695328, 197.0000034570694, 1);
+	width:32px;
+	height:44px;
+	position:absolute;
+	left:312px;
+	top:0px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e1_47 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(234.00000125169754, 222.00000196695328, 197.0000034570694, 1);
+	width:227px;
+	height:86px;
+	position:absolute;
+	left:94px;
+	top:97px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.e1_48 { 
+	color:rgba(116.00000068545341, 94.0000019967556, 72.00000330805779, 1);
+	width:183px;
+	height:86px;
+	position:absolute;
+	left:116px;
+	top:119px;
+	font-family:Luckiest Guy;
+	text-align:center;
+	font-size:22px;
+	letter-spacing:2px;
+}
+
